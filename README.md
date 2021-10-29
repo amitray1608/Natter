@@ -1,2 +1,1 @@
-# Natter
-Real Time Chat Application
+hay there natter here.
